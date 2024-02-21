@@ -1,5 +1,5 @@
 nlu
 streamlit
 pyspark==3.0.1
-sklearn
+scikit-learn
 plotly 
