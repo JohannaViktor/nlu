@@ -1,1 +1,5 @@
-nlu streamlit pyspark==3.0.1 sklearn plotly 
+nlu
+streamlit
+pyspark==3.0.1
+sklearn
+plotly 
